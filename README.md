@@ -6,7 +6,7 @@ Welcome to the ModelForge repository! This project contains a collection of mach
 
 - **ModelForge**: A collection of machine learning models created for educational and practical purposes.
 - **Languages**: Python
-- **Libraries**: scikit-learn (or any other specific libraries used)
+- **Libraries**: Numpy , pandas , scikit-learn
 
 ## Models
 
